@@ -36,10 +36,13 @@ public class UIManager : MonoBehaviour
 
 
     
+    
     private void Awake()
     {
-
+       
         instance = this;
+        
+        
     }
     private void Start()
     {
@@ -49,6 +52,8 @@ public class UIManager : MonoBehaviour
         _musicToggle.isOn = true;
     }
    
+  
+    
     public void GameOverPanel() 
     {
         Time.timeScale = 0;

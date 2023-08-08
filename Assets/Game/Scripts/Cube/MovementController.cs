@@ -35,7 +35,7 @@ public class MovementController : MonoBehaviour
                 PushCube();
                 _isPushed= true;
                 _isMoving = true;                
-                Invoke("PushDelay", 0.5f);
+                Invoke("PushDelay", 0.8f);
             }
         }
        
@@ -73,7 +73,7 @@ public class MovementController : MonoBehaviour
         mainCube._lineRenderer.SetActive(false);
         mainCube._rb.AddForce(Vector3.forward * _pushForce, ForceMode.Impulse);
         AudioManager.instance.FrictionPlay();       
-        Invoke("SpawnNewCube", 0.5f);      
+        Invoke("SpawnNewCube", 0.8f);      
     }
 
     
