@@ -1,4 +1,4 @@
-# ChainCube2048-Clone
+# 2048 CUBE
 
 # Download Link
 
