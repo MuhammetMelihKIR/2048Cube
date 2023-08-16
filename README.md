@@ -6,7 +6,7 @@ https://melih-kir.itch.io/2048-cube
 
 # GamePlay Video
 
-https://youtu.be/T5mQfKxzf_M
+https://www.youtube.com/watch?v=MaKQNDZw2Dg
 
 ## Game Screen
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
