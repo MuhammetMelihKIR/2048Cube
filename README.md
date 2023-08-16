@@ -1,9 +1,9 @@
 # 2048 CUBE
 
 # Download Link
-YAKIN ZAMANDA PLAYSTORE LINKINI EKLEYECEGIM.
 
-BU SAYFADAN OYUNUN APK DOSYASINI INDIREBILIRSINIZ : https://melih-kir.itch.io/2048-cube
+https://melih-kir.itch.io/2048-cube
+
 # GamePlay Video
 
 https://youtu.be/T5mQfKxzf_M
